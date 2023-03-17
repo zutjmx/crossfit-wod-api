@@ -4,3 +4,6 @@
 
 ## Url del tutorial:
 https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
+
+## Para ejecutar en modo Dev
+npm run dev
